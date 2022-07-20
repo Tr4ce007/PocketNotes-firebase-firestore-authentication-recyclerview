@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PocketNotes</string>
+    <string name="title_text">Self. Gratitude. Journal</string>
+    <string name="greateful_text">Want to write your thoughts?</string>
+    <string name="get_started_text">Get Started</string>
+    <string name="email_hint">email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">login</string>
+    <string name="or_text">or</string>
+    <string name="create_text">Create Account</string>
+    <string name="username_hint">Username</string>
+    <string name="post_title" />
+    <string name="thoughts">Your Thoughts</string>
+    <string name="save_button">Save</string>
+    <string name="title_hint">Title</string>
+    <string name="thoughts_hint">Thoughts</string>
+    <string name="menu_title">Add Thoughts</string>
+    <string name="signout">Signout</string>
+    <string name="no_thoughts_hint">Write a Journal Entry By Tapping On + Icon</string>
+</resources>
